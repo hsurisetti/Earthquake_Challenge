@@ -7,7 +7,7 @@ The Obejctive of the project is to create an Earthquake map with three different
 ## Software 
   Leaflet Java Script, HTML, CSS, MAPBox API.
 
-## Project Demo location : https://hsurisetti.github.io
+## Project Demo location : https://hsurisetti.github.io/Earthquake_Challenge
 ## Project Description
 
 The view of the Base layer involves :
