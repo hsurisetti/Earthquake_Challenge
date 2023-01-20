@@ -7,7 +7,6 @@ The Obejctive of the project is to create an Earthquake map with three different
 ## Software 
   Leaflet Java Script, HTML, CSS, MAPBox API.
 
-## Project Demo location : https://hsurisetti.github.io/Earthquake_Challenge
 ## Project Description
 
 The view of the Base layer involves :
@@ -27,5 +26,15 @@ The view of the Base layer involves :
   - The map can be zoomed in or out and scrolled around.
   - User can click on any of the circles and a popup messages displays the magnitude and the location of the earthquake.
 
+## Results :
+
+#### Street Map
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/streetsview.png" width=450/>
+
+#### Satellite Map 
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/satelliteView.png" width=450 />
+
+### Dark Map
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/DarkView.png" width=450 />
 
 
