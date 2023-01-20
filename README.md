@@ -37,4 +37,19 @@ The view of the Base layer involves :
 ### Dark Map
 <img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/DarkView.png" width=450 />
 
+## Map Overlays 
 
+### Earthquakes overlay
+
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/earthquakes.png" width=450 />
+
+### Tectonic plates Overlay
+
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/tectonicplates.png" width=450 />
+
+### Major Earthquakes Overlay
+
+<img src="https://github.com/hsurisetti/Earthquake_Challenge/blob/main/Screenshots/majorEarthquakes.png" width=450 />
+
+#### Note:
+ Since the MAPbox API key hasn't been updated in the config.js file the below github.io link isn't fully functional : https://hsurisetti.github.io/Earthquake_Challenge/ . By updating with the config key detail , it would be fully functional. 
